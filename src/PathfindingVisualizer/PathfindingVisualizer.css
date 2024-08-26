@@ -1,0 +1,39 @@
+.grid {
+  margin: 100px 0 0;
+}
+
+.bg-dark {
+  background-color: #34495e !important; 
+}
+
+#mainText > ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 0 28px 0 0;
+}
+#mainText div {
+  /*border: 1px solid rgb(12, 53, 71);*/
+  width: 25px;
+  height: 25px;
+  display: inline-block;
+  position: relative;
+  top: 0.35em;
+  margin: 0 0.42em;
+}
+
+#algorithmDescriptor {
+  text-align: center;
+  color: #34495e;
+  padding: 15px 25px 15px 25px;
+}
+
+button {
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  background-color: green;
+  border: 1px solid white;
+  border-radius: 5px;
+}
