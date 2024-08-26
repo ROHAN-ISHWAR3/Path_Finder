@@ -1,0 +1,29 @@
+
+.node {
+  width: 20px;
+  height: 20px;
+  border: 1px solid #ccc;
+  display: inline-block;
+  background-color: white;
+  cursor: pointer;
+}
+
+.node-start {
+  background-color: green;
+}
+
+.node-finish {
+  background-color: red;
+}
+
+.node-wall {
+  background-color: black;
+}
+
+.node-visited {
+  background-color: lightblue;
+}
+
+.node-shortest-path {
+  background-color: yellow;
+}
